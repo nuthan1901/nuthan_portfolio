@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/nuthan_portfolio/static/css/main.84109312.chunk.css",
+    "main.js": "/nuthan_portfolio/static/js/main.11bd88a0.chunk.js",
+    "main.js.map": "/nuthan_portfolio/static/js/main.11bd88a0.chunk.js.map",
+    "runtime-main.js": "/nuthan_portfolio/static/js/runtime-main.892b4604.js",
+    "runtime-main.js.map": "/nuthan_portfolio/static/js/runtime-main.892b4604.js.map",
+    "static/css/2.e7f3f9d7.chunk.css": "/nuthan_portfolio/static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.57947e59.chunk.js": "/nuthan_portfolio/static/js/2.57947e59.chunk.js",
+    "static/js/2.57947e59.chunk.js.map": "/nuthan_portfolio/static/js/2.57947e59.chunk.js.map",
+    "static/js/3.f0e5a195.chunk.js": "/nuthan_portfolio/static/js/3.f0e5a195.chunk.js",
+    "static/js/3.f0e5a195.chunk.js.map": "/nuthan_portfolio/static/js/3.f0e5a195.chunk.js.map",
+    "index.html": "/nuthan_portfolio/index.html",
+    "static/css/2.e7f3f9d7.chunk.css.map": "/nuthan_portfolio/static/css/2.e7f3f9d7.chunk.css.map",
+    "static/css/main.84109312.chunk.css.map": "/nuthan_portfolio/static/css/main.84109312.chunk.css.map",
+    "static/js/2.57947e59.chunk.js.LICENSE.txt": "/nuthan_portfolio/static/js/2.57947e59.chunk.js.LICENSE.txt",
+    "static/media/Soumyajit-Behera.394b6e42.pdf": "/nuthan_portfolio/static/media/Soumyajit-Behera.394b6e42.pdf",
+    "static/media/about.aee0f771.png": "/nuthan_portfolio/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/nuthan_portfolio/static/media/avatar.5852f40f.svg",
+    "static/media/blog.52102140.png": "/nuthan_portfolio/static/media/blog.52102140.png",
+    "static/media/chatify.9373edda.png": "/nuthan_portfolio/static/media/chatify.9373edda.png",
+    "static/media/codeEditor.ba945879.png": "/nuthan_portfolio/static/media/codeEditor.ba945879.png",
+    "static/media/emotion.e92e314a.jpeg": "/nuthan_portfolio/static/media/emotion.e92e314a.jpeg",
+    "static/media/style.css": "/nuthan_portfolio/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/nuthan_portfolio/static/media/home-main.541f8179.svg",
+    "static/media/leaf.4c15d6eb.png": "/nuthan_portfolio/static/media/leaf.4c15d6eb.png",
+    "static/media/suicide.b72f1f9f.png": "/nuthan_portfolio/static/media/suicide.b72f1f9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.892b4604.js",
+    "static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.57947e59.chunk.js",
+    "static/css/main.84109312.chunk.css",
+    "static/js/main.11bd88a0.chunk.js"
+  ]
+}
